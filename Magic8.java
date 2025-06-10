@@ -50,6 +50,12 @@ public class Magic8 {
             case 8:
                 System.out.println("No.");
                 break;
+            case 9:
+                System.out.println("Ask again later.");
+                break;
+            case 10:
+                System.out.println("Cannot predict now.");
+                break;
             default:
                 System.out.println("Invalid Input");
                 break;
